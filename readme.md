@@ -16,6 +16,12 @@ This command sets the author name to be used with your commits.
 
            git init <repository name>
 
+> ### **touch**   
+> **Use** :
+> This command is used for creating a new file
+
+           touch <file_name>
+           
 > ### **clone**   
 > **Use** :
 > This command is used to obtain a repository from an existing URL.
