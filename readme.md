@@ -3,18 +3,17 @@
 ## Git Commands
 
       
-       
-> ### **config**  
-> **Use** :    
-This command sets the author name to be used with your commits.  
-           
-           git config-global user.name "<name>"  
-
 > ### **init**   
 > **Use** :
 > This command is used for starting a new repository.
 
-           git init <repository name>
+           git init <repository name>     
+           
+> ### **config**  
+> **Use** :    
+This command sets the author name to be used with your commits.  
+           
+           git config --global user.name "<name>"  
 
 > ### **touch**   
 > **Use** :
